@@ -1,10 +1,10 @@
 Hi 👋 My name is Aleksandr Grigorev
 ===================================
 
-Senior Full-stack Engineer
+Senior Frontend Engineer
 --------------------------
 
-Full-stack Engineer with 7+ years of experience building complex web applications using different stacks. Also, I have a solid background (5+) in developing native desktop applications in C++
+Engineer with 7+ years of experience building complex web applications using different stacks. Also, I have a solid background (5+ years) in developing native desktop applications in C++
 
 ### Skills
 
